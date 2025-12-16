@@ -1,0 +1,5 @@
+{
+  "name": "Physics Golf Lab",
+  "description": "An interactive, isometric physics-driven golf game that visualizes forces, trajectories, and mechanics in real-time.",
+  "requestFramePermissions": []
+}
